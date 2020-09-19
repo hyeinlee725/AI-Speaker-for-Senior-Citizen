@@ -1,34 +1,36 @@
 # AI Speaker for Senior Citizen
 # (독거)노인들을 위한 AI 스피커
-![images](https://img.shields.io/github/license/minji-o-j/AI-Speaker-for-Senior-Citizen?style=social)
-![image](https://img.shields.io/badge/language-Python-blueviolet?style=social&logo=Python)
-![image](https://img.shields.io/badge/Tool-n?style=social&logo=Raspberry-Pi)
-![image](https://img.shields.io/badge/Latest%20Update-200404-blueviolet?style=social)
+![images](https://img.shields.io/github/license/minji-o-j/AI-Speaker-for-Senior-Citizen?style=flat-square)
+![image](https://img.shields.io/badge/language-Python-blueviolet?style=flat-square&logo=Python)
+![image](https://img.shields.io/badge/Tool-라즈베리파이B-bc1142?style=flat-square&logo=Raspberry-Pi)
+![image](https://img.shields.io/badge/Latest%20Update-200404-9cf?style=flat-square)
+![HitCount](http://hits.dwyl.com/minji-o-j/AI-Speaker-for-Senior-Citizen.svg)  
 
-
-[요약](#요약)  
+[시스템 설명](#시스템-설명)  
 [개발 기간](#개발-기간)  
 [개발자](#개발자)  
 [목적 및 필요성](#목적-및-필요성)  
 [차별화된 점](#차별화된-점)  
 [사용 하드웨어](#사용-하드웨어)  
 [사용 프로그램](#사용-프로그램)  
-[사용 기술](#사용-기술)  -[음성 분석/합성](#음성-분석합성대화), [웹 크롤링](#웹-크롤링) 등  
-[알고리즘](#알고리즘)  -[온·습도 기준 설정](#온습도-기준-설정), [외부 조건 고려](#외부와의-온습도-차이), [사용자 피드백](#사용자-피드백에-따른-솔루션-변화) 등  
+[**사용 기술**](#사용-기술)  -[음성 분석/합성](#음성-분석합성대화), [웹 크롤링](#웹-크롤링) 등  
+[**알고리즘**](#알고리즘)  -[온·습도 기준 설정](#온습도-기준-설정), [외부 조건 고려](#외부와의-온습도-차이), [사용자 피드백](#사용자-피드백에-따른-솔루션-변화) 등  
 [솔루션 List](#솔루션-List)  
-[결과](#결과) 
+[**결과**](#결과)  
 [발전 가능성](#발전-가능성)  
 [참고 자료](#참고-자료)
 
 ---
-## 요약
+## 시스템 설명
  - 독거노인을 위한 AI 스피커
  
- - 일반 AI 스피커와는 다르게 사용자가 있는 환경을 주기적으로 측정하여 온·습도의 개선을 돕는다.
+ - 일반 AI 스피커와는 다르게 사용자가 있는 환경의 온·습도를 주기적으로 측정하여 온·습도의 개선을 돕는다.
  
  - 환경 개선을 돕는 솔루션과 개인 솔루션을 제공한다.
  
  - 그 외 대화 기능, 유튜브 노래 재생 기능 등이 가능하다.
+ 
+ - **[여기](https://www.youtube.com/playlist?list=PL7GlTFtxG6khUv0izh-4z2csl81Knopmp)** 에서 시연 영상을 확인 가능하다.
  
  ---
 ## 개발 기간
